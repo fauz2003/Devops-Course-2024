@@ -14,6 +14,7 @@ Throughout this course, I have gained hands on experience on multiple tools and 
 - Knative
 
 # Summarizing Blogs
+As part of this course I have written three blogs on medium. The link and descriptions of which are provided below:
 
 # [Blog 1. GitOps: The Next Evolution of DevOps](https://medium.com/@fauzahmed2/gitops-the-next-evolution-of-devops-18630e82378b)
 GitOps uses Git as the single source of truth for managing infrastructure and applications. By treating infrastructure as code, it ensures consistency, automation, and security across environments. Changes are versioned, reviewed, and automatically applied, reducing manual errors and improving collaboration. Popular tools like Flux, ArgoCD, and Terraform make GitOps an essential practice for modern cloud-native infrastructures.
