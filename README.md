@@ -12,6 +12,7 @@ Throughout this course, I have gained hands on experience on multiple tools and 
 - Kyverno
 - Istio Service Mesh
 - Knative
+- Github Actions
 
 # Summarizing Blogs
 As part of this course I have written three blogs on medium. The link and descriptions of which are provided below:
