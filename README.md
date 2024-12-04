@@ -23,3 +23,8 @@ GitOps uses Git as the single source of truth for managing infrastructure and ap
 # [Blog 2. Deploying AKS with Terraform: Why and How](https://medium.com/@fauzahmed2/deploying-aks-with-terraform-why-and-how-3918953b6926)
 Terraform is an Infrastructure-as-Code (IaC) tool that automates the provisioning and management of cloud resources, making it a powerful choice for deploying Azure Kubernetes Service (AKS). By codifying infrastructure, Terraform ensures consistency, scalability, and version control across environments.
 Its use of declarative configuration enables teams to avoid manual errors, improve traceability, and streamline complex infrastructure tasks. With Terraform, AKS deployments become more predictable, maintainable, and adaptable to modern practices like GitOps and CI/CD pipelines, significantly enhancing reliability and operational efficiency.
+
+# [Blog 3. Dockerizing Your First MERN stack Application](https://medium.com/@fauzahmed2/dockerizing-your-first-mern-stack-application-a-step-by-step-guide-409d7a8506c5)
+Explore the world of Dockerization with this comprehensive guide on containerizing and deploying a MERN stack application. Starting from the basics, the blog covers creating Dockerfiles for the frontend, backend, and database, setting up a Docker network for seamless communication, and running individual containers. It also introduces the use of Docker Compose to simplify multi-container application management, providing an easy way to deploy the entire MERN stack with a single command. Perfect for developers looking to streamline deployment and embrace modern containerization techniques!
+
+You can find the application of this blog [here](https://github.com/fauz2003/Dockerizing-MERN)
